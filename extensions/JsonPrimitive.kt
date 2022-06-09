@@ -1,4 +1,4 @@
-package world.sugu.app.gradle.extension
+package trenskow.extensions
 
 import kotlinx.serialization.json.*
 
